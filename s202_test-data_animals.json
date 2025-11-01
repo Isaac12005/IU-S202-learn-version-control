@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Cardinal",
+    "scientificName": "Cardinalis cardinalis",
+    "habitat": "Woodlands and Shrublands",
+    "description": "Mid sized bird, known for having a reddish hue of varying degrees for male and female."
   }
 ]
